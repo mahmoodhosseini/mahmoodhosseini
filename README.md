@@ -1,16 +1,17 @@
-## Hi there 👋
+<a href="https://mahmoodhosseini.com" target="_blank" rel="nonoopener noreferrer"  aria-label="Mahmood Hosseini">
+<picture>
+<img src="images/name.svg" alt="Mahmood Hosseini" width="300" >
+</picture>
+</a>
 
-<!--
-**mahmoodhosseini/mahmoodhosseini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://mahmoodhosseini.com/resume" target="_blank" rel="nonoopener noreferrer"  alt="Resume">
+<picture>
+<img src="images/title.svg" alt="Mahmood Hosseini" width="230" >
+</picture>
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/mahmoodhosseini" target="_blank" rel="nonoopener noreferrer"  alt="LinkedIn">
+<picture>
+<img src="images/linkedin.svg" alt="Mahmood Hosseini" width="220" >
+</picture>
+</a>
